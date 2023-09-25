@@ -85,7 +85,7 @@ RUN set -ex \
    && rm -rf "/home/${NB_USER}/.cache/yarn" \
    && rm -rf "/home/${NB_USER}/.node-gyp" \
    && fix-permissions "${CONDA_DIR}" \
-   && fix-permissions "/home/${NB_USER}"%
+   && fix-permissions "/home/${NB_USER}"
 ```
 
 - De captum library (later nodig voor de explainability lessen) gaf fouten in docker, de bug was gefixt in git maar er is nog geen release gebeurd met die fix, dus we doen een rechtstreekse pip install van de github repository.
