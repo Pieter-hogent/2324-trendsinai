@@ -113,7 +113,7 @@ OPENAI_API_KEY=sk-XXXXXXXXXXX
 Dan kan je de container als volgt starten.
 
 ```bash
-docker run -d -p 8888:8888 -v /Users/pieter/trendsinai/notebooks:/home/jovyan/work/trendsinai --env-file /Users/pieter/trendsinai/.env docker-hogent-trendsinai
+docker run -d -p 8888:8888 -v /Users/pieter/trendsinai/2324-trendsinai/notebooks:/home/jovyan/work/trendsinai --env-file /Users/pieter/trendsinai/.env docker-hogent-trendsinai
 ```
 
 Als de container correct opstart staat hij in de lijst van processen
@@ -139,3 +139,16 @@ docker logs funny_bartik
 En daar in zou dan een url moeten staan die je kan gebruiken om de notebooks te openen in je browser.
 
 Als je een mac gebruikt en GPT4All wilt gebruiken zal je toch nog moeten terugvallen op een anaconda environment of iets dergelijks voorlopig, maar anders staat alles nu klaar
+
+## beelden genereren
+
+Waarschijnlijk één van de meer impactvolle vormen van 'generative AI' (toch zeker op de korte termijn) is het genereren van beelden.
+
+Er zijn er ondertussen een aantal, die aan een zeer snel tempo beter worden (DALL-E, MidJourney, StableDiffusion,...)
+
+![diffusion image](img/diffusion.png)
+(bron: wikipedia)
+
+Binnen deze cursus valt er niet zoveel mee te doen (we zijn geen designers), maar er compleet over zwijgen voelt ook maar raar, dus we gaan een open source versie lokaal proberen draaien, en daar wat mee spelen.
+
+<https://github.com/AUTOMATIC1111/stable-diffusion-webui>
