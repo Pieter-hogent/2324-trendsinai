@@ -73,7 +73,7 @@ Maar de system role is exact waaraan je dit soort prompts zou meegeven, het legt
 Zet je per twee en schrijf een uitgebreide prompt die alle categorieën gebruikt om het volgende te bekomen:
 
 1. Bachelorproef voorstellen evalueren naar inhoud en spelling.
-2. De werking van JavaScript code uitleggen en eventueel optimalisaties aanprijzen.
+2. De werking van Python code uitleggen en eventueel optimalisaties aanprijzen.
 
 (gebruik je eigen bachelorproefvoorstel / een stuk code uit de les Webservices om dit te testen)
 
