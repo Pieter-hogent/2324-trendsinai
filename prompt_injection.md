@@ -24,7 +24,7 @@ Dan loopt het mis natuurlijk.
 
 Op een analoge manier kan je de data van een prompt aanpassen om de instructies te wijzigen, op 22 september 2022 (dus nog voor ChatGPT, in de oude GPT3) was de volgende tweet de start van prompt injection. https://twitter.com/goodside/status/1569128808308957185
 
-![prompt injection](/Users/pieter/trendsinai/2324-trendsinai/img/prompt_injection.jpg)
+![prompt injection](img/prompt_injection.jpg)
 
 
 
@@ -80,7 +80,7 @@ Dit leidde uiteindelijk tot de https://bringsydneyback.com/ website, die er via 
 
 
 
-![bing pirate prompt](/Users/pieter/trendsinai/2324-trendsinai/img/bingpirateprompt.png)
+![bing pirate prompt](img/bingpirateprompt.png)
 
 
 
@@ -88,7 +88,7 @@ Wat leidt tot
 
 
 
-![bing pirate](/Users/pieter/trendsinai/2324-trendsinai/img/bingpirate.png)
+![bing pirate](img/bingpirate.png)
 
 
 
